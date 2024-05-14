@@ -1,1 +1,1 @@
-# da_final_project1
+This project shows data analysis using Excel and Power BI
