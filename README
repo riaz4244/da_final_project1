@@ -1,0 +1,27 @@
+Data Analysis Project: Sales Performance Improvement
+Welcome to the Sales Performance Improvement project! This project involves analyzing sales data using Excel for data cleaning and preparation, creating an interactive dashboard using Power BI to visualize sales performance, and presenting insights and recommendations in a PowerPoint presentation.
+
+Description
+This project aims to improve sales performance through data-driven analysis and recommendations. It involves the following steps:
+
+Data Cleaning and Preparation using Excel:
+Took raw data and cleaned it by handling NULL values and modifying data formats.
+Modified the State column for consistency.
+Recalculated Revenue and Profit columns to ensure accuracy.
+Calculated a field for shipping days to analyze shipping efficiency.
+
+Interactive Dashboard using Power BI:
+Created an interactive dashboard in Power BI to visualize sales performance.
+Included visualizations to showcase account managers' sales performance.
+Enabled users to explore data dynamically and identify trends or areas for improvement.
+Insights and Recommendations in PowerPoint Presentation:
+
+Compiled insights derived from the Power BI dashboard into a PowerPoint presentation.
+Presented graphs and charts depicting sales performance trends and key metrics.
+Provided recommendations to boost sales performance based on the analysis.
+
+Features:
+Data Cleaning and Preparation: Handled NULL values, modified data formats, and recalculated key metrics for accuracy.
+Interactive Power BI Dashboard: Provides an interactive interface to visualize sales performance and analyze account managers' contributions.
+PowerPoint Presentation: Summarizes insights and recommendations derived from the analysis to guide sales performance improvement strategies.
+Data-Driven Decision Making: Employs data analysis techniques to identify opportunities for enhancing sales performance and driving business growth.
